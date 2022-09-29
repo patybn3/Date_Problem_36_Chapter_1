@@ -1,4 +1,7 @@
-
+/**
+ * @author Patricia N. Antlitz
+ * @version 1.0
+ */
 public class Date
 {
     protected int year;
